@@ -1,0 +1,56 @@
+{
+  "language": "kn-IN",
+  "title": "Survival Kannada",
+  "reviewStatus": "draft",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Namaskara!",
+      "subtitle": "Hello and respect",
+      "emoji": "🙏",
+      "phrases": [
+        { "id": "namaskara", "kannada": "ನಮಸ್ಕಾರ", "romanized": "Namaskara", "english": "Hello", "emoji": "🙏", "note": "Works any time of day. With folded hands it's extra polite." },
+        { "id": "hegiddira", "kannada": "ಹೇಗಿದ್ದೀರಾ?", "romanized": "Hegiddira?", "english": "How are you?", "emoji": "🤗", "note": "This is the respectful form. With close friends, say \"Hegiddiya?\"" },
+        { "id": "chennagiddini", "kannada": "ಚೆನ್ನಾಗಿದ್ದೀನಿ", "romanized": "Chennagiddini", "english": "I'm fine", "emoji": "😊", "note": null },
+        { "id": "dhanyavada", "kannada": "ಧನ್ಯವಾದ", "romanized": "Dhanyavada", "english": "Thank you", "emoji": "💐", "note": "In casual Bengaluru talk, many people simply say \"thanks\" too." },
+        { "id": "haudu", "kannada": "ಹೌದು", "romanized": "Haudu", "english": "Yes", "emoji": "👍", "note": null },
+        { "id": "illa", "kannada": "ಇಲ್ಲ", "romanized": "Illa", "english": "No", "emoji": "👎", "note": null }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Kannada Gottilla",
+      "subtitle": "I don't know Kannada (yet!)",
+      "emoji": "🤷",
+      "phrases": [
+        { "id": "kannada-gottilla", "kannada": "ಕನ್ನಡ ಗೊತ್ತಿಲ್ಲ", "romanized": "Kannada gottilla", "english": "I don't know Kannada", "emoji": "🤷", "note": "Say it with a smile and people will happily help you." },
+        { "id": "swalpa-swalpa-gottu", "kannada": "ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಗೊತ್ತು", "romanized": "Swalpa swalpa gottu", "english": "I know a little", "emoji": "🤏", "note": null },
+        { "id": "nanna-hesaru", "kannada": "ನನ್ನ ಹೆಸರು", "romanized": "Nanna hesaru…", "english": "My name is…", "emoji": "🙋", "note": "Add your name after it: \"Nanna hesaru Priya.\"" },
+        { "id": "nimma-hesaru-enu", "kannada": "ನಿಮ್ಮ ಹೆಸರು ಏನು?", "romanized": "Nimma hesaru enu?", "english": "What is your name?", "emoji": "❓", "note": null },
+        { "id": "gottaytu", "kannada": "ಗೊತ್ತಾಯ್ತು", "romanized": "Gottaytu", "english": "I understood", "emoji": "💡", "note": null },
+        { "id": "gottagalilla", "kannada": "ಗೊತ್ತಾಗಲಿಲ್ಲ", "romanized": "Gottagalilla", "english": "I didn't understand", "emoji": "😵‍💫", "note": null }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Oota Aaytha?",
+      "subtitle": "Did you eat? Food words",
+      "emoji": "🍛",
+      "phrases": [
+        { "id": "oota-aaytha", "kannada": "ಊಟ ಆಯ್ತಾ?", "romanized": "Oota aaytha?", "english": "Did you eat?", "emoji": "🍽️", "note": "Kannadigas ask this the way others ask \"How are you?\" It shows care." },
+        { "id": "anna", "kannada": "ಅನ್ನ", "romanized": "Anna", "english": "Rice", "emoji": "🍚", "note": "Careful: older brother is \"Anna\" too (ಅಣ್ಣ), but said with a harder n sound." },
+        { "id": "neeru", "kannada": "ನೀರು", "romanized": "Neeru", "english": "Water", "emoji": "💧", "note": null },
+        { "id": "haalu", "kannada": "ಹಾಲು", "romanized": "Haalu", "english": "Milk", "emoji": "🥛", "note": null },
+        { "id": "dose", "kannada": "ದೋಸೆ", "romanized": "Dose", "english": "Dosa", "emoji": "🫓", "note": "In Kannada it's \"dose\", not \"dosa\"." },
+        { "id": "kaafi", "kannada": "ಕಾಫಿ", "romanized": "Kaafi", "english": "Coffee", "emoji": "☕", "note": "Bengaluru runs on filter coffee!" }
+      ]
+    },
+    { "id": 4, "title": "Ondu, Eradu, Mooru", "subtitle": "Numbers 1 to 10", "emoji": "🔢", "phrases": [] },
+    { "id": 5, "title": "Auto Rickshaw", "subtitle": "Getting around", "emoji": "🛺", "phrases": [] },
+    { "id": 6, "title": "Market Time", "subtitle": "Shopping with Chikkamma", "emoji": "🛍️", "phrases": [] },
+    { "id": 7, "title": "Left, Right, Straight", "subtitle": "Directions", "emoji": "🧭", "phrases": [] },
+    { "id": 8, "title": "Amma, Appa, Ajji", "subtitle": "Family words", "emoji": "👨‍👩‍👧", "phrases": [] },
+    { "id": 9, "title": "Khushi!", "subtitle": "Feelings", "emoji": "😄", "phrases": [] },
+    { "id": 10, "title": "Swalpa Adjust Maadi", "subtitle": "Bengaluru classics", "emoji": "🌆", "phrases": [] }
+  ]
+}
